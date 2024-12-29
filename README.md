@@ -1,44 +1,41 @@
-<p>
- <img src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" width="400" height="400"/>
-<img src="https://github.com/kumarjeetray/kumarjeetray/blob/main/life_balance.gif" alt="side Image" align="right" width="400" height="400" />
-</p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://shashwatshah02.github.io/Portfolio-Website/)
 <hr>
+
 <p>
 
-<h1 align="center">Hi 👋, I'm Shashwat Nimesh Shah</h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shashwat+Shah!;" />
+</h1>
 <h3 align="center">A passionate Computer Engineer from India</h3>
 
- - 🎓 **Master's in Computer Science student at Texas A&M University ACTIVELY LOOKING FOR SUMMER 2025 INTERNSHIPS**.
-- 🔭 I’m currently working on **Software Development and Machine Learning**
-- 🌱 I’m currently learning **Frontend Web Development - React and Backend Development - Node**
-- 👯 I’m looking to collaborate on **Open Source, Flutter, React Native, and Machine Learning Projects**
-- 📫 How to reach me **zaveridishant@gmail.com**
+- 🎓 Final Year Computer Engineering Student at Dwarkadas J. Sanghvi College of Engineering.
+- 🔭 I’m currently working on **Full Stack Web Development**
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**
+- 👯 I’m looking to collaborate on **Open Source, Flutter, MERN, and Machine Learning Projects**
 - 👨‍💻 Freelancer
-- ⚡ Fun fact: I can spend my entire day in the gym.
-- 🥇 Winner of Singapore-India Hackathon '23.
-- 🥇 Winner of Smart India Hackathon '22.
-- 🥇 Finalist UNESCO India Africa Hackathon '22.
-- 🥇 Finalist Luxembourg-India Hackathon '23.
-- 🥇 Winner of IIT Bombay's Techfest's HERE Hackathon '23.
-- 🥇 Winner of Codeshastra 9.0 '23.
-- 🥇 AIR 7 at national cybersecurity competition Pentathon 2024
-- 🥇 2nd place at VJTI's 24 Hours Hackathon Technovanza 2022.
-- 🥇 2nd place at TSEC's Hackathon RUBIX 2023.
-- 🥇 3rd place at DJ Sanghvi's Hackathon Synergy 2024.
-- 🥇 3rd place at TCET's Hackathon Hackanova 2022.
-- 🥇 3rd place at DJ Sanghvi's Hackathon ClashOfCodes 2023.
-- 🥇 3rd place at Codeshastra 9.0 '24.
-- 🥇 3rd place at Synergy '24.
-- 🥇 Samsung Solve For Tomorrow 2022 top 50.
+- ⚡ Fun fact: I can sleep 22 hours straight !
+
  
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=dishantzaveri&label=Profile%20views&color=0e75b6&style=flat"
-    alt="dishantzaveri" /> 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Shashwatshah02&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Shashwatshah02" /> 
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dishantzaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dishantzaveri" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/dishant-zaveri-4301471b9" target="https://www.linkedin.com/in/dishant-zaveri-4301471b9/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dishant-zaveri-4301471b9" height="30" width="40" /></a>
-<a href="https://instagram.com/dishant_zaveri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dishant_zaveri" height="30" width="40" /></a>
+  <a href="mailto:shashwatshah02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/shashwat-shah-391abb204/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://shashwatshah02.github.io/Portfolio-Website/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+ <a href="https://www.instagram.com/shashwatshah02/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-3bde15?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+ <a href="https://x.com/Shashwatshah02" target="_blank">
+     <img src="https://img.shields.io/badge/Twitter-0e0205?style=for-the-badge&logo=x&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
 </p>
 
 <h3 align="left">Languages , Softwares , Tools , Services and Frameworks:</h3>
@@ -49,55 +46,27 @@
 
 <br>
 
-<h1 align="center"> 📊 Badge Board: </h1>
-
-[![@dishantzaveri's Holopin board](https://holopin.me/dishantzaveri)](https://holopin.io/@dishantzaveri)
-
 <h1 align="center"> 📊 Statistics: </h1>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                192 commits         █████░░░░░░░░░░░░░░░░░░░░   18.23 % 
-🌆 Daytime                242 commits         ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-🌃 Evening                296 commits         ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-🌙 Night                  323 commits         ████████░░░░░░░░░░░░░░░░░   30.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
-<!--END_SECTION:waka-->
-
 <p align="center">
-  <a href="https://github.com/dishantzaveri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=dishantzaveri&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
+  <a href="https://github.com/Shashwatshah02/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Shashwatshah02&show_icons=true&bg_color=0d1117&text_color=40cfcd&border_color=444" height="165">
   </a>
-  <a href="https://github.com/dishantzaveri/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dishantzaveri&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
+  <a href="https://github.com/Shashwatshah02/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashwatshah02&layout=compact&bg_color=0d1117&text_color=40cfcd&border_color=444"  height="165">
   </a>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dishantzaveri&column=6&theme=onedark" align="center"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Shashwatshah02&column=6&theme=onedark" align="center"/>
 </div>
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
  <a href="https://git.io/streak-stats" align="middle">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=dishantzaveri&theme=react&background=0d1117&border=666">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Shashwatshah02&theme=react&background=0d1117&border=666">
   </a>
   <br>
-  <a href="https://github.com/dishantzaveri/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=dishantzaveri&theme=react-dark&hide_border=true">
+  <a href="https://github.com/Shashwatshah02/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Shashwatshah02&theme=react-dark&hide_border=true">
   </a>
 </p>
 
@@ -108,6 +77,3 @@ The snake's eating up my contributions🐍.
     alt="example" />
 </p>
 <br>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=nightowl" alt="" /></a> </p>
